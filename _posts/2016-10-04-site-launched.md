@@ -2,6 +2,7 @@
 layout: post
 title: "Srikanth Pagadala, Conscious Computing, Launches Site"
 date: 2016-10-04
+categories: NN
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by 
