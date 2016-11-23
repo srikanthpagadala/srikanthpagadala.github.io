@@ -33,7 +33,8 @@ img.avatar { margin-bottom: 30px; }
 .marketing p.lead { line-height: 30px; }
 
 /* Notes */
-.notelist { width: 600px; margin: 0 auto; }
+.notelist { width: 100%; margin: 0 auto; }
+.notescategory { font-weight: bold; font-size: 120%;}
 ul.listnotes { margin: 0 auto; }
 ul.listnotes li {line-height: 30px; } 
 
