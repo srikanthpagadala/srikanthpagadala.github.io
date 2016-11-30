@@ -31,5 +31,5 @@ Once compiled, the model must be fit to data. This can be done one batch of data
 
 Once trained, you can use your model to make predictions on new data. 
 
-Next: [My first Neural Network with Keras](/notes/2016/11/05/my-first-neural-network-with-keras)
+Next: [Life-Cycle for Neural Network Models in Keras](/notes/2016/11/05/life-cycle-for-neural-network-models-in-keras)
 
