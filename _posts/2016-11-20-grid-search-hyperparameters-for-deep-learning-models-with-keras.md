@@ -32,6 +32,6 @@ Below is a list of the topics we are going to cover:
 
 [Source Code](){:target="_blank"}
 
-[Report](http://htmlpreview.github.io/?){:target="_blank"}
+[Report](http://htmlpreview.github.io/?https://github.com/srikanthpagadala/neural-network-projects/blob/master/Grid%20Search%20Hyperparameters%20for%20Deep%20Learning%20Models%20with%20Keras/report.html){:target="_blank"}
 
 Next: [Improve Deep Learning Performance](/notes/2016/11/21/improve-deep-learning-performance)
