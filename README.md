@@ -17,8 +17,6 @@ This is my online [world](https://srikanthpagadala.github.io/). Every day I disc
 
 I hope you will find them useful as you embark on the same journey.
 
-<img style="display: block; margin: 0 auto; width:50px" src="img/logo.png" />
-
 I've taken up Consulting opportunities with various companies in Bay Area since 2010.
 
 [Read more about my life...](https://srikanthpagadala.github.io/about/)
