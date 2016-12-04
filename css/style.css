@@ -74,3 +74,17 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 	font-family: 'Montserrat', Helvetica, sans-serif; }
 
 
+/* markdown table with borders */
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid lightgray;
+}
+
+th{
+    border:1px solid lightgray;
+}
+
+td{
+    border:1px solid lightgray;
+}

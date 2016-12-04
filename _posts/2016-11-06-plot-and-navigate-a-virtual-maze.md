@@ -26,27 +26,23 @@ My work was received very well. Following are some of the comments that I got fr
 ### Project Synopsis:
 
 You can get a taste of my work by watching following videos. Each video is about 2 mins long. For more details, then review the project report.
- 
-Various AI techniques that I choose to examine in this project are:
 
-1. EZ
-- [Random turn](https://www.youtube.com/watch?v=bk1I0pCzLyM)
-- [Follow wall](https://www.youtube.com/watch?v=4LQ7xwL-58k)
-- [Block deadend](https://www.youtube.com/watch?v=rQGUrwK7YnI)
 
-2. Graph Search
-- [Depth first search](https://www.youtube.com/watch?v=0V92rnuzEfo)
-- [Breadth first search](https://www.youtube.com/watch?v=dvn2tY0Dgeg)
-- [Uniform cost search](https://www.youtube.com/watch?v=6Uh8QF85Phw)
-- [A* search](https://www.youtube.com/watch?v=4Hg3uPYtKvQ)
+| Category               | Algorithm                            |                                       Youtube Video                                      |
+|------------------------|--------------------------------------|:----------------------------------------------------------------------------------------:|
+| EZ                     | Random turn                          | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=bk1I0pCzLyM){:target="_blank"} |
+|                        | Follow wall                          | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=4LQ7xwL-58k){:target="_blank"} |
+|                        | Block deadend                        | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=rQGUrwK7YnI){:target="_blank"} |
+| Graph Search           | Depth first search                   | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=0V92rnuzEfo){:target="_blank"} |
+|                        | Breadth first search                 | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=dvn2tY0Dgeg){:target="_blank"} |
+|                        | Uniform cost search                  | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=6Uh8QF85Phw){:target="_blank"} |
+|                        | A* search                            | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=4Hg3uPYtKvQ){:target="_blank"} |
+| Reinforcement Learning | Value Iteration                      | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=mQJr3RmdvsI){:target="_blank"} |
+|                        | Q Learning                           | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=cf2WrR8UuRo){:target="_blank"} |
+| Other                  | Flood fill                           | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=NBSps5kW_qg){:target="_blank"} |
+| **Bonus**                  | Winning 2016 world championship maze | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=tm3HLxWAu8g){:target="_blank"} |
 
-3. Reinforcement Learning
-- [Value Iteration](https://www.youtube.com/watch?v=mQJr3RmdvsI)
-- [Q Learning](https://www.youtube.com/watch?v=cf2WrR8UuRo)
-
-4. Other
-- [Flood fill](https://www.youtube.com/watch?v=NBSps5kW_qg)
-- [Bonus: Tackling World championship Maze](https://www.youtube.com/watch?v=tm3HLxWAu8g)
+<br />
 
 [Source Code]() - For the benefit of new students, Udacity has asked me to not share the code for some time. That been said, I think following Project Report has everything that one needs to take on this problem. Let me know if you need any help. 
 
