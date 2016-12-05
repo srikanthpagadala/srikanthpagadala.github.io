@@ -43,8 +43,7 @@ You can get a taste of my work by watching following videos. Each video is about
 | **Bonus**                  | Winning 2016 world championship maze | [![](/img/playvideo_sm.jpg)](https://www.youtube.com/watch?v=tm3HLxWAu8g){:target="_blank"} |
 
 <br />
-
-[Source Code]() - For the benefit of new students, Udacity has asked me to not share the code for some time. That been said, I think following Project Report has everything that one needs to take on this problem. Let me know if you need any help. 
+[Source Code](https://github.com/srikanthpagadala/udacity/tree/master/Machine%20Learning%20Engineer%20Nanodegree/Capstone:%20Plot%20and%20Navigate%20a%20Virtual%20Maze){:target="_blank"}
 
 [Report](https://github.com/srikanthpagadala/udacity/blob/master/Machine%20Learning%20Engineer%20Nanodegree/Capstone:%20Plot%20and%20Navigate%20a%20Virtual%20Maze/report.pdf){:target="_blank"}
 
