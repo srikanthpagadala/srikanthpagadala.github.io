@@ -192,9 +192,9 @@ pip install --upgrade --ignore-installed  /tmp/tensorflow_pkg/tensorflow-*.whl
 If needed create symlinks for missing files:
 
 ```
-libcudnn.5 -> libcudnn.5.dylib
-libcudnn.dylib -> libcudnn.5.dylib
-libcudnn5.dylib -> libcudnn.5.dylib
+sudo ln -s libcudnn.5.dylib libcudnn.5
+sudo ln -s libcudnn.5.dylib libcudnn.dylib
+sudo ln -s libcudnn.5.dylib libcudnn5.dylib
 ```
 
 **Problem 2 - Library not loaded: @rpath/libcudart.**
