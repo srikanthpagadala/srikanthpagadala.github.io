@@ -28,6 +28,8 @@ Obvious solution is to put GPUs of my laptop to use.
 
 As of this writting, official [instructions](https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html#prepare-environment-for-mac-os-x) for setting up GPU environment for Tensorflow on Mac OS X are bit dated. Hence this blog post. Let us get started.
 
+## Update: Official Tensorflow [instructions](https://www.tensorflow.org/get_started/os_setup#optional-setup-gpu-for-mac) are upto date now. Please follow official instructions. It easy to install binary package for tensorflow-gpu for mac. Below instructions are still good, if you want to install from sources.
+
 ## Prerequisites
 
 Make sure to update your homebrew formulas
