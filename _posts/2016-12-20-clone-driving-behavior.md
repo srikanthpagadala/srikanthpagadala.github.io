@@ -35,7 +35,7 @@ So we have achieved our goal of finding a DNN model that can be trained on vanil
 
 [Source Code](https://github.com/srikanthpagadala/udacity/tree/master/Self-Driving%20Car%20Engineer%20Nanodegree/BehavioralCloning-P3){:target="_blank"}
 
-[Report](https://srikanthpagadala.github.io/serve/carnd-behavioral-cloning-p3-report.html)
+[Report](https://srikanthpagadala.github.io/serve/carnd-behavioral-cloning-p3-report.html){:target="_blank"}
 
 
 
