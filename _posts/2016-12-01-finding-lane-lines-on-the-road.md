@@ -37,3 +37,4 @@ If you are in a hurry and don't want to read the full report, just watch these t
 [![](/img/playvideo.jpg)](https://youtu.be/rH62HafQlT0){:target="_blank"}
 
 
+Next: [Deep Learning to Clone Driving Behavior](/notes/2016/12/20/clone-driving-behavior)
