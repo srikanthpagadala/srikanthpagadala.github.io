@@ -9,5 +9,4 @@ Deep learning is computationally intensive, so on very large datasets, speed mat
 
 Data parallelism shards large datasets and hands those pieces to separate neural networks, say, each on its own core. We can rely on Apache Spark for this, training models in parallel and iteratively averages the parameters they produce in a central model. 
 
-*post to be completed soon.. ran into few issues..stay tuned*
-
+I recommend this [Webinar](http://go.databricks.com/spark-mllib-from-quick-start-to-scikit-learn)
