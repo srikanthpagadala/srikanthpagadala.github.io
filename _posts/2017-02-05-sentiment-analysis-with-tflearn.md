@@ -2,7 +2,7 @@
 layout: post
 title: "Sentiment Analysis with TFLearn"
 date: 2017-02-05
-categories: ['Neural Networks', 'Natural Language Processing']
+categories: ['Natural Language Processing']
 ---
 
 In this notebook, we'll build upon our previous project - ["Sentiment Analysis from Scratch"](https://srikanthpagadala.github.io/notes/2017/02/05/sentiment-analysis-from-scratch)  by building a network for sentiment analysis on the movie review data. Instead of a network written with Numpy, we'll be using [TFLearn](http://tflearn.org/), a high-level library built on top of TensorFlow. TFLearn makes it simpler to build networks just by defining the layers. It takes care of most of the details for you.

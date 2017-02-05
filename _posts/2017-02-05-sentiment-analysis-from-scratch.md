@@ -2,7 +2,7 @@
 layout: post
 title: "Sentiment Analysis from Scratch"
 date: 2017-02-05
-categories: ['Neural Networks', 'Natural Language Processing']
+categories: ['Natural Language Processing']
 ---
 
 In this project, we will build a deep network from scratch that classifies movie reviews as positive or negative just based on their text!
