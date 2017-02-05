@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fun: Style transfer"
+title: "Fun: Style Transfer"
 date: 2017-02-04
 categories: ['Neural Networks']
 ---
