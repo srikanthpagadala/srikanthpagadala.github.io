@@ -37,6 +37,6 @@ Here's how we will solve the classification problem:
 - load this embedding matrix into a Keras Embedding layer, set to be frozen (its weights, the embedding vectors, will not be updated during training).
 - build on top of it a 1D convolutional neural network, ending in a softmax output over our 20 categories.
 
-[Source Code](https://github.com/srikanthpagadala/neural-network-projects/blob/master/Text%20Classification%20with%20Keras%20and%20GloVe%20Embedding/text-classification.ipynb){:target="_blank"}
+[Source Code](https://github.com/srikanthpagadala/neural-network-projects/tree/master/Text%20Classification%20with%20Keras%20and%20GloVe%20Embedding){:target="_blank"}
 
 [Report](http://htmlpreview.github.io/?https://github.com/srikanthpagadala/neural-network-projects/blob/master/Text%20Classification%20with%20Keras%20and%20GloVe%20Embedding/report.html){:target="_blank"}
