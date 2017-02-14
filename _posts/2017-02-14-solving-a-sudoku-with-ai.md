@@ -24,4 +24,5 @@ In the process of problem solving, we may get to the point where two or more pos
 
 [Source Code](https://github.com/srikanthpagadala/udacity/tree/master/Artificial%20Intelligence%20Nanodegree/Solving%20a%20Sudoku%20with%20AI){:target="_blank"}
 
-[Report](https://github.com/srikanthpagadala/udacity/blob/master/Artificial%20Intelligence%20Nanodegree/Solving%20a%20Sudoku%20with%20AI/report.html){:target="_blank"}
+[Report](http://htmlpreview.github.io/?https://github.com/srikanthpagadala/udacity/blob/master/Artificial%20Intelligence%20Nanodegree/Solving%20a%20Sudoku%20with%20AI/report.html){:target="_blank"}
+
