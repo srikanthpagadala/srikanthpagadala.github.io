@@ -13,6 +13,6 @@ In this project, we will teach Pac-Man to search his world to complete the follo
 
 This project is possible thanks to the generous contributions of the UC Berkeley AI division and their work on the [Pac-Man Project](http://inst.eecs.berkeley.edu/~cs188/pacman/project_overview.html). 
 
-[![](img/pacman_youtube.png)](https://youtu.be/E1tKdWkaHIM) 
+[![](/img/pacman_youtube.png)](https://youtu.be/E1tKdWkaHIM) 
 
 [Source Code](https://github.com/srikanthpagadala/udacity/tree/master/Artificial%20Intelligence%20Nanodegree/Teaching%20Pac-Man%20to%20Search){:target="_blank"}
