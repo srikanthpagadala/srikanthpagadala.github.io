@@ -15,4 +15,4 @@ This project is possible thanks to the generous contributions of the UC Berkeley
 
 [![](img/pacman_youtube.png)](https://youtu.be/E1tKdWkaHIM) 
 
-[Source Code](https://github.com/srikanthpagadala/udacity/tree/master/Artificial%20Intelligence%20Nanodegree/Teaching%20Pac-Man%20to%20Search%0A){:target="_blank"}
+[Source Code](https://github.com/srikanthpagadala/udacity/tree/master/Artificial%20Intelligence%20Nanodegree/Teaching%20Pac-Man%20to%20Search){:target="_blank"}
