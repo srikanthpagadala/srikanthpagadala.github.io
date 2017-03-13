@@ -13,7 +13,7 @@ The following videos show the final results of the vehicles being detected on tw
 
 Project Track                 |Challenge Track                                   
 :----------------------------:|:-----------------------------:
-[![Track 1](/img/project_track_dt.png)](https://youtu.be/x8kqF5M8idc) | [![Track 2](/img/challenge_track_dt.png)](https://youtu.be/MnQ2CQFppB4) 
+[![Track 1](/img/project_track_dt.png)](https://youtu.be/GkmJqb-PhV4) | [![Track 2](/img/challenge_track_dt.png)](https://youtu.be/xd_GphgPczI) 
 
 
 The steps of this project are the following:
