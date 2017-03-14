@@ -25,5 +25,9 @@ In this project, we
 
 [Report](https://github.com/srikanthpagadala/toy-autonomous-car/blob/master/README.md){:target="_blank"}
 
+## Thank you
+
+A hearty Thank You to my partner in crime [Min Wang](https://www.linkedin.com/in/mwangaip). He got so interested in the project that he actually bought the car, assembled it and helped shoot the final video too. Thank you Min. Your deep interest in the project propelled me to not give up. Against all odds, we got our car project done! Thanks Buddy! 
+
 
 
