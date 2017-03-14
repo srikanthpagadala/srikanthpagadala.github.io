@@ -16,9 +16,9 @@ In this project, we
     - apply DNN prediction on ROI to identify US traffic sign
 	- send appropriate command to the car to turn-left, turn-right, or stop
  
- ## Result
+## Result
  
- [![](/img/toy_car.jpg)](https://youtu.be/SIbGDtLWeDI)
+[![](/img/toy_car.jpg)](https://youtu.be/SIbGDtLWeDI)
  
  
 [Source Code](https://github.com/srikanthpagadala/toy-autonomous-car){:target="_blank"}
